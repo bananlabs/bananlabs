@@ -1,5 +1,21 @@
 ![banana-labs-header!](https://github.com/bananlabs/bananlabs/blob/main/banana-labs-header.png)
 
+<!-- Languages icons -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="solidity-icon" heigth="20" width="30"
+       src="https://github.com/bananlabs/bananlabs/blob/main/png-transparent-solidity-logo.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40"  
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<!-- Social Media Link -->
+[<img align="right" alt="twitter" src="https://github.com/bananlabs/bananlabs/blob/main/twitter-badger.svg">](https://twitter.com/bananlabs)
+</div>
+
+<br>
+
+### Banana Labs ⚗ is currently learning about smart contracts and ⛓ Blockchain Security 🛡
 <!--
 **bananlabs/bananlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

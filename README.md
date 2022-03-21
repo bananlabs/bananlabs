@@ -4,9 +4,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="solidity-icon" heigth="20" width="30"
        src="https://github.com/bananlabs/bananlabs/blob/main/png-transparent-solidity-logo.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" 
+  <img align="center" alt="javascript-icon" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40"  
+  <img align="center" alt="python-icon" height="30" width="40"  
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <!-- Social Media Link -->
@@ -15,7 +15,7 @@
 
 <br>
 
-### Banana Labs ⚗ is currently learning about smart contracts and ⛓ Blockchain Security 🛡
+### Banana Labs ⚛️ is currently learning about smart contracts and ⛓ Blockchain Security 🛡
 <!--
 **bananlabs/bananlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

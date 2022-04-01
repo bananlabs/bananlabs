@@ -7,5 +7,5 @@
 </div>
 <br><br>
 <footer>
-  <p align="right"> :banana: Banana Labs. </p>  
+  <p align="right"> :monkey_face: Banana Labs. </p>  
 </footer>

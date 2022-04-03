@@ -1,4 +1,4 @@
-![banana-labs-header!](https://github.com/bananlabs/bananlabs/blob/main/headers/banana-header-v2.png)
+![banana-labs-header!](https://github.com/bananlabs/bananlabs/blob/main/headers/gorilla-header.png)
 
 <!-- Languages icons -->
 <div style="display: inline_block"><br>

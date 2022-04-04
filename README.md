@@ -16,6 +16,11 @@
 <br>
 
 ### Banana Labs ⚛️ is currently learning about smart contracts and ⛓ Blockchain Security 🛡
+
+<br>
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananlabs&theme=radical&layout=compact)
+
 <!--
 **bananlabs/bananlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
